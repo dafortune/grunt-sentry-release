@@ -1,6 +1,6 @@
 {
   "name": "grunt-sentry-release",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Upload release to Sentry",
   "main": "Gruntfile.js",
   "scripts": {
