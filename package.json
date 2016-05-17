@@ -1,0 +1,22 @@
+{
+  "name": "grunt-sentry-release",
+  "version": "1.0.2",
+  "description": "Upload release to Sentry",
+  "main": "Gruntfile.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "sentry"
+  ],
+  "author": "Damian Andres Fortuna",
+  "license": "MIT",
+  "dependencies": {
+    "bluebird": "^3.3.5",
+    "sentry-api": "^0.1.0"
+  },
+  "devDependencies": {
+    "grunt": "^1.0.1",
+    "grunt-cli": "^1.2.0"
+  }
+}
